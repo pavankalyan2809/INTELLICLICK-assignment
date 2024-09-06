@@ -6,7 +6,8 @@ Hi This is Pavan, I've built Weather Forecast App
    - In your project directory, create a new file named `README.md`.
 
 2. **Add content**:
-   - Copy and paste the above content into your `README.md` file.
+   - create folders public and src
+   - navigate through the folders
 
 
 3. **Commit changes**:
